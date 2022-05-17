@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "344034493973",
+    "firebase_url": "https://btnjrs-bb5e5.firebaseio.com",
+    "project_id": "btnjrs-bb5e5",
+    "storage_bucket": "btnjrs-bb5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344034493973:android:e6ebcc248c822ab7daf01c",
+        "android_client_info": {
+          "package_name": "com.agendabtn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344034493973-km82opv8atfveae4kbdikfk5tfem085b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agendabtn.app",
+            "certificate_hash": "6b619789358609ebf82aea4cab737c97f638ea96"
+          }
+        },
+        {
+          "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVXWEOOqBUn5VdwqQNXKvKt_xubTIkXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344034493973:android:caaf3929808fced2daf01c",
+        "android_client_info": {
+          "package_name": "com.btnbjbdriver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344034493973-f67929248b8g50h3b8vml5iiqoea1bub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btnbjbdriver.app",
+            "certificate_hash": "6b619789358609ebf82aea4cab737c97f638ea96"
+          }
+        },
+        {
+          "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVXWEOOqBUn5VdwqQNXKvKt_xubTIkXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344034493973:android:ff332ecf217ad7b7daf01c",
+        "android_client_info": {
+          "package_name": "com.btnjrs.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344034493973-vm8id9kvscrb1o6etk670k5oa894bjgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btnjrs.app",
+            "certificate_hash": "6b619789358609ebf82aea4cab737c97f638ea96"
+          }
+        },
+        {
+          "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVXWEOOqBUn5VdwqQNXKvKt_xubTIkXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344034493973:android:d1983843cd1253afdaf01c",
+        "android_client_info": {
+          "package_name": "com.example.harp_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344034493973-sri6s3jovf15hvdap6o4k3k9rjs8cu4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harp_flutter",
+            "certificate_hash": "6b619789358609ebf82aea4cab737c97f638ea96"
+          }
+        },
+        {
+          "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVXWEOOqBUn5VdwqQNXKvKt_xubTIkXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344034493973-h7mrkij6k43btmspsm2kardkqobnfjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
